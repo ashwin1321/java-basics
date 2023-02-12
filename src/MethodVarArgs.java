@@ -22,5 +22,3 @@ public static void foo(int … arr)
 
 }
 
-
-//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
